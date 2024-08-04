@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The fronted is hosted on vercel and API is on Render  [Website Link](https://edgetts-eight.vercel.app/).
 
 ## Available Scripts
 
