@@ -1,6 +1,6 @@
 # Live Link
 
-The fronted is hosted on vercel and API is on Render  [Website Link](https://edgetts-eight.vercel.app/).
+The fronted is hosted on vercel and API is on Render  [Live Website Link](https://edgetts-eight.vercel.app/).
 
 ## Available Scripts
 
